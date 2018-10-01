@@ -1,0 +1,211 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	 font-family: 'ubuntu';
+
+}
+body
+{
+ background:url('../image/web/b.jpg') fixed ;
+
+
+}
+
+#logo
+{
+	
+	
+}
+#logo img
+{
+	
+	margin: 0 auto;
+}
+
+
+#login span
+{
+	color: white;
+}
+#login a
+{
+	color: red;
+	margin-left: 5px;
+}
+#login a:hover
+{
+	text-decoration: none;
+	text-shadow: 0 0 10px red;
+}
+
+ul li
+{
+	margin-left: 30px;
+	font-size: 25px;
+
+
+
+
+}
+.navbar-nav>li>.dropdown-menu
+{
+	background: #393544;
+}
+ul li a
+{
+	color: black !important;
+	text-shadow: 0 0 5px white;
+	background: none !important;
+}
+
+ul li :hover
+{
+
+	color: white !important;
+	text-shadow: 0 0 10px red;
+	cursor: pointer;
+}
+.active
+{
+	background: none !important;
+	color: red;
+	text-shadow: 0 0 10px red;
+}
+
+h1
+{
+	color: white !important;
+	display: inline;
+	text-shadow: 0 0 5px white;
+	margin-bottom: 20px;
+}
+h1:hover
+{
+	text-shadow: 0 0 10px white;
+}
+#content
+{
+	width: 100%;
+	height: 600px;
+	border: 2px solid white;
+	box-shadow: 0 0 10px white;
+	background: black;
+	padding-bottom: 50px;
+
+
+}
+
+#pigna
+{
+	background: black;
+	padding-top: 7px;
+	border:1px solid white;
+	box-shadow: 0 0 10px white;
+	opacity: 0.7;
+}
+#pigna a
+{
+	color: white;
+	font-size: 30px;
+	margin-left: 10px;
+	text-decoration: underline;
+
+}
+
+#pigna a:hover
+{
+	text-shadow: 0 0 10px red;
+	color: red;
+}
+
+
+#depo
+{
+	font-size: 30px;
+	text-shadow: 0 0 10px green;
+}
+
+#register tr td
+{
+	color: white;
+	font-size: 20px;	
+	text-shadow: 0 0 10px white;
+}
+#register
+{
+	margin: 0 auto;
+	padding: 20px;
+	
+}
+
+#cartitem
+{	
+	text-align: center;
+
+	color: white;
+	border-radius: 30px;
+	line-height: 50px;
+	font-size: 30px;
+	
+
+}
+
+#imgcart
+{
+
+	margin-left: 90px;
+	text-align: center;
+	padding-top: 80px;
+
+}
+#carttable
+{
+	background: white;
+	margin: 0 auto;
+	width:90%;
+	border-radius: 15px;
+	box-shadow: 0 0 10px white;
+}
+#carttable th
+{
+	padding: 10px;
+	text-align: center;
+			font-size: 20px
+}
+#carttable tr td
+{
+	padding: 10px;
+		text-align: center;
+		font-size: 20px;
+}
+
+#slid
+{
+	width: 50%;
+	margin: 0 auto;
+	height: 200px;
+	background: white;
+	box-shadow: 0 0 10px white;
+	border-radius: 30px;
+}
+#slid tr td
+{
+	text-align: center;
+	color: #00FF48; 
+	text-shadow: 0 0 5px #00FF48;
+	font-size: 30px;
+}
+#slid th
+{ 
+	text-align: center;
+	font-size: 20px;
+}
+
+
+#alert
+{
+	display: block;
+	text-align: center;
+
+}
